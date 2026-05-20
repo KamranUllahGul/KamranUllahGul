@@ -3,11 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20There!%20👋&fontSize=50&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+%7C+ML+Enthusiast;Building+Cool+Stuff+Every+Day;Coffee+%26+Code=❤️&center=true&width=500&height=50&color=00FFAA" alt="Typing SVG"/>
-</a>
-
 ---
 
 ### 🚀 About Me
