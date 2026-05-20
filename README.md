@@ -24,7 +24,24 @@ I love turning ideas into reality with code. Currently focused on **Android Proj
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,python,docker,aws,git&perline=10" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="50" alt="Jetpack Compose"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase"/>
+</p>
+
+<p align="center">
+  <img src="https://ia601407.us.archive.org/19/items/mvvm_20260424_202604/MVVm.png" height="50" alt="MVVM"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="Room"/>
+  <img src="https://ia600807.us.archive.org/7/items/retro-fit-icon/RetroFitIcon.png" height="50" alt="Retrofit"/>
+  <img src="https://ia601408.us.archive.org/21/items/koin_20260424/Koin.png" height="50" alt="Koin"/>
+</p>
+
+<p align="center">
+  <img src="https://archive.org/download/coroutine/coroutine.png" height="50" alt="Coroutines"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub Actions"/>
+  <img src="https://ia600406.us.archive.org/32/items/m_20260424/M.png" height="50" alt="Material 3"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Clean Architecture"/>
 </p>
 
 <!-- Or use individual badges if you prefer -->
