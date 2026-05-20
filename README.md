@@ -69,7 +69,7 @@ What it does + impact.
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kamran-ullah-gul-4b3b81341/?_l=en_US))
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)]([https://yourwebsite.com](https://kamranullahgul.github.io/Portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)]([https://kamranullahgul.github.io/Portfolio/](https://kamranullahgul.github.io/Portfolio/))
 
 ---
 
