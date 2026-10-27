@@ -28,20 +28,7 @@ I love turning ideas into reality with code. Currently focused on **Android Proj
   <img src="https://ia600406.us.archive.org/32/items/m_20260424/M.png" height="50" alt="Material 3"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-six-republic.vercel.app/api?username=KamranUllahGul&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-streak-stats.herokuapp.com/?user=KamranUllahGul&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-six-republic.vercel.app/api/top-langs/?username=KamranUllahGul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
----
 
 ### 🔥 Cool Animations / Extras
 
